@@ -42,4 +42,5 @@ Contributing
 Contributions aimed at enhancing the system's capabilities or addressing specific challenges in credit card fraud detection are encouraged. Feel free to open issues or submit pull requests.
 
 ## License
-This project is licensed under the Apache License 2.0.
+This project is licensed under the [Apache License 2.0](LICENSE).
+
